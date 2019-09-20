@@ -1,0 +1,2 @@
+# Pizdec
+Polniy pizdec
